@@ -1,4 +1,4 @@
-# Poisson-MAP-Deconvolution
+# Improved Poisson-MAP-Deconvolution
 This work belongs to the following paper:
 
 
